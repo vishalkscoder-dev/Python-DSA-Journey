@@ -21,6 +21,12 @@ I am learning Data Structures & Problem Solving using Python.
 - Occurrences
 - Two pointer reverse
 
+### Day 4
+- Missing number problem
+- Remove duplicates
+- Move zeros to end
+- Sum of array
+
 ## Goal
 To become job-ready for companies like Zoho, TCS, Infosys, Wipro.
 
