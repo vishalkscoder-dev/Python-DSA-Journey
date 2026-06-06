@@ -27,6 +27,32 @@ I am learning Data Structures & Problem Solving using Python.
 - Move zeros to end
 - Sum of array
 
+- ### Day 5
+- Rotate array
+- Find duplicate element
+- Move negative numbers to left
+- First repeating element
+
+---
+
+### Day 6 (Hashing Basics)
+- First non-repeating element
+- Frequency count using dictionary
+- Anagram check
+- Pair with given sum
+
+---
+
+### Day 7 (Strings Basics)
+- Reverse string
+- Palindrome check
+- Count vowels
+- Remove spaces
+- First unique character
+
+---
+
+
 ## Goal
 To become job-ready for companies like Zoho, TCS, Infosys, Wipro.
 
