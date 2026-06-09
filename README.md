@@ -52,6 +52,21 @@ I am learning Data Structures & Problem Solving using Python.
 
 ---
 
+### Day 8
+- Find missing number
+- Check if two strings are equal after sorting (Anagram concept)
+- Find second largest element without sorting
+- Remove duplicates without using set
+- Find the longest word in a sentence
+
+- ### Day 9
+- Character frequency
+- Count words without shortcuts
+- Largest and smallest element
+- Check if array is sorted
+- Find common elements in two arrays
+
+
 
 ## Goal
 To become job-ready for companies like Zoho, TCS, Infosys, Wipro.
