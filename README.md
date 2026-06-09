@@ -66,7 +66,13 @@ I am learning Data Structures & Problem Solving using Python.
 - Check if array is sorted
 - Find common elements in two arrays
 
-
+### Day 10
+- Reverse each word in a string
+- Count digits without string conversion
+- Missing number
+- Move zeros to end
+- First non-repeating character
+- Array sum without built-in functions
 
 ## Goal
 To become job-ready for companies like Zoho, TCS, Infosys, Wipro.
