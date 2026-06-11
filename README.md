@@ -74,6 +74,13 @@ I am learning Data Structures & Problem Solving using Python.
 - First non-repeating character
 - Array sum without built-in functions
 
+- ### Day 11
+- Check anagram without sorting
+- Count uppercase and lowercase characters
+- Remove duplicate characters from a string
+- Find first repeated character
+- Check string rotation
+
 ## Goal
 To become job-ready for companies like Zoho, TCS, Infosys, Wipro.
 
