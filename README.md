@@ -81,6 +81,30 @@ I am learning Data Structures & Problem Solving using Python.
 - Find first repeated character
 - Check string rotation
 
+### Day 12 (Dictionary & Hashing Patterns)
+
+Solved the following problems:
+
+- Most Frequent Element
+- Find Unique Elements
+- Character with Highest Frequency
+- Check if Two Arrays Have Same Elements
+- Find First Unique Number
+
+#### Concepts Practiced
+- Dictionaries (Hash Maps)
+- Frequency Counting
+- Array Comparison
+- Hashing Techniques
+- Problem Solving and Optimization
+
+#### Key Learnings
+- Using dictionaries for efficient frequency counting
+- Finding duplicates and unique elements
+- Comparing arrays without sorting
+- Identifying the first unique element efficiently
+- Writing optimized O(n) solutions
+
 ## Goal
 To become job-ready for companies like Zoho, TCS, Infosys, Wipro.
 
