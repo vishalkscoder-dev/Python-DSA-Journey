@@ -105,6 +105,20 @@ Solved the following problems:
 - Identifying the first unique element efficiently
 - Writing optimized O(n) solutions
 
+### Day 13
+- Find duplicate elements
+- Check if array contains duplicates
+- Find intersection of two arrays
+- Find union of two arrays
+- Longest consecutive sequence
+
+#### Concepts Practiced
+- Sets
+- Hashing
+- Duplicate detection
+- Array operations
+- Optimized lookups
+
 ## Goal
 To become job-ready for companies like Zoho, TCS, Infosys, Wipro.
 
