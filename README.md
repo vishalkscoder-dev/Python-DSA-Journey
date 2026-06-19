@@ -119,6 +119,21 @@ Solved the following problems:
 - Array operations
 - Optimized lookups
 
+### Day 14
+
+Solved:
+- Maximum Sum Subarray of Size K
+- Pair with Given Sum
+- Remove Duplicates from Sorted Array
+- Merge Two Sorted Arrays
+- Best Time to Buy and Sell Stock
+
+Concepts Practiced:
+- Sliding Window
+- Two Pointer Technique
+- Optimized Array Traversal
+- Interview Problem Solving
+
 ## Goal
 To become job-ready for companies like Zoho, TCS, Infosys, Wipro.
 
